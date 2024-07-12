@@ -44,7 +44,7 @@ const education = [
     institution: "Shri Neelkanteshwar Prashala, Solapur",
     degree: "SSC",
     year: "2016 - 2017",
-    percentage: "Percentage: 43.85%",
+    percentage: "Percentage: 53.40%",
   },
 ];
 
