@@ -9,7 +9,12 @@ const skills = [
   { name: "MySQL" },
   { name: "Git/Github" },
   { name: "Tailwind CSS" },
-  { name: "Responsive Web Designing" },
+  { name: "Automation Testing" },
+  { name: "Selenium Webdriver" },
+  { name: "Execute Test Cases" },
+  { name: "TestNG" },
+  { name: "Jenkins" },
+  { name: "Cucumber" },
 ];
 const interpersonalSkills = [
   { name: "Communication" },
@@ -52,6 +57,10 @@ const certificates = [
   {
     name: "CSS, Javascropt, Python Complete Course - Udemy",
     link: "https://drive.google.com/file/d/1t5bFpgEaR_EL_0jeS41J5OV_w68RhMpB/view?usp=sharing",
+  },
+  {
+    name: "Mastering C & C++ Programming - Udemy",
+    link: "https://drive.google.com/file/d/1pOIY1eIkvQ0UTgUx4a8TyXPp77C4D00T/view?usp=sharing",
   },
   {
     name: "Agile Methodology Virtual Experience Program - Cognizant",

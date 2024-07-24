@@ -9,7 +9,7 @@ import Links from "./components/ui/Links.jsx";
 // import { ToastContainer } from "react-toastify";
 // import "react-toastify/dist/ReactToastify.css";
 
-// import img from './assets/img.jpg'
+import my_image from "./assets/my_image.jpg";
 
 function App() {
   return (
@@ -19,10 +19,11 @@ function App() {
         <div className="w-[50%] max-sm:w-full flex flex-col gap-4 px-2 py-2">
           <Introduction />
           <Links />
-          {/* <div className="flex flex-col w-full max-sm:w-full border border-activeColor bg-highlightBg rounded-sm px-3 py-2">
-          <img src={img} alt="" className="w-full" />
-        </div> */}
-        </div>
+          </div> 
+           <div className="flex flex-col mt-12 w-[40%] border border-borderColor bg-backgroundColor rounded-xl px-2 py-2 ">
+          <img src={my_image} alt="image" className=" rounded-xl"/>
+
+        </div>                     
         <div className="h-screen w-[50%] max-sm:w-full overflow-y-auto flex flex-col items-start justify-start gap-4 py-4">
           <Educations />
           <Certification />
