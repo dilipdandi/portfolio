@@ -74,6 +74,14 @@ const certificates = [
     name: "Web Development - NULLCLASS",
     link: "https://drive.google.com/file/d/13Dy8h085IG1U2LGB0QpywdQYBXIZP8dn/view?usp=sharing",
   },
+  {
+    name: "Javascript with HTML5 & CSS3 - Udemy",
+    link: "https://drive.google.com/file/d/1C2e3HYcE-_2JWUOkJ_fFdw3AerOW1PEX/view?usp=sharing",
+  },
+  {
+    name: "Data Analytics - Accenture",
+    link: "https://drive.google.com/file/d/1RVvCmBfojxv7r6G1CD0nQ6ufwteoBTGm/view?usp=sharing",
+  },
 ];
 
 const projects = [
